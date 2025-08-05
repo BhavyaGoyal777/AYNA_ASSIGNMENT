@@ -28,10 +28,10 @@ Each image below is a snapshot of one W&B run for a specific model.
 
 ---
 
-### Model 3
+<!-- ### Model 3
 ![Model 3](model3.png)
 
----
+--- -->
 
 ### Model 4
 ![Model 4](model4.png)
@@ -50,5 +50,8 @@ Each image below is a snapshot of one W&B run for a specific model.
 
 ### Model 7
 ![Model 7](model7.png)
+
+### Model 8
+![Model 8](model8.png)
 
 ---
