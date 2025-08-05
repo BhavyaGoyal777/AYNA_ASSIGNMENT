@@ -2,7 +2,8 @@
 
 This repository contains the complete project for the Ayna ML Assignment. The goal is to train a conditional UNet model to color a polygon based on its shape (from an image) and a desired color (from a text prompt). The entire implementation, from data loading to training and inference, is contained within a single Google Colab notebook.
 
-[![Open In Colab](https://colab.research.google.com/drive/1k7KPyNF2WEP3U9jnimKfZ5wcp5z5faKE?usp=sharing)
+[![Open In Colab]https://colab.research.google.com/drive/1k7KPyNF2WEP3U9jnimKfZ5wcp5z5faKE?usp=sharing) 
+[![W&B Report](https://img.shields.io/badge/WandB-Project_Dashboard-blue)](https://wandb.ai/777bhavya-dwarkadas-j-sanghvi-college-of-engineering/assignment-color-adding-unet)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
